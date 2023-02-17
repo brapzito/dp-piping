@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.js": "/dp-pipe/home/static/js/main.b8fe1bee.chunk.js",
-    "main.js.map": "/dp-pipe/home/static/js/main.b8fe1bee.chunk.js.map",
+    "main.js": "/dp-pipe/home/static/js/main.5912f8c1.chunk.js",
+    "main.js.map": "/dp-pipe/home/static/js/main.5912f8c1.chunk.js.map",
     "runtime-main.js": "/dp-pipe/home/static/js/runtime-main.ad47d4fb.js",
     "runtime-main.js.map": "/dp-pipe/home/static/js/runtime-main.ad47d4fb.js.map",
-    "static/js/2.319f2d05.chunk.js": "/dp-pipe/home/static/js/2.319f2d05.chunk.js",
-    "static/js/2.319f2d05.chunk.js.map": "/dp-pipe/home/static/js/2.319f2d05.chunk.js.map",
+    "static/js/2.64f743bd.chunk.js": "/dp-pipe/home/static/js/2.64f743bd.chunk.js",
+    "static/js/2.64f743bd.chunk.js.map": "/dp-pipe/home/static/js/2.64f743bd.chunk.js.map",
     "index.html": "/dp-pipe/home/index.html",
-    "static/js/2.319f2d05.chunk.js.LICENSE.txt": "/dp-pipe/home/static/js/2.319f2d05.chunk.js.LICENSE.txt",
+    "static/js/2.64f743bd.chunk.js.LICENSE.txt": "/dp-pipe/home/static/js/2.64f743bd.chunk.js.LICENSE.txt",
     "static/media/bg-about-us.cf9a123e.jpg": "/dp-pipe/home/static/media/bg-about-us.cf9a123e.jpg",
     "static/media/bg-coworking.06bccc47.jpeg": "/dp-pipe/home/static/media/bg-coworking.06bccc47.jpeg",
-    "static/media/bg-presentation.88963029.jpg": "/dp-pipe/home/static/media/bg-presentation.88963029.jpg",
     "static/media/bg-sign-in-basic.f327db1d.jpeg": "/dp-pipe/home/static/media/bg-sign-in-basic.f327db1d.jpeg",
     "static/media/blog-9-4.de736e0b.jpg": "/dp-pipe/home/static/media/blog-9-4.de736e0b.jpg",
     "static/media/blog2.aba7a3cb.jpg": "/dp-pipe/home/static/media/blog2.aba7a3cb.jpg",
@@ -29,6 +28,7 @@
     "static/media/logo-spotify.7e255dc6.svg": "/dp-pipe/home/static/media/logo-spotify.7e255dc6.svg",
     "static/media/logo-vodafone.b3e8486c.svg": "/dp-pipe/home/static/media/logo-vodafone.b3e8486c.svg",
     "static/media/macbook.e0a8c5d5.png": "/dp-pipe/home/static/media/macbook.e0a8c5d5.png",
+    "static/media/pipes.0a2d50c1.webp": "/dp-pipe/home/static/media/pipes.0a2d50c1.webp",
     "static/media/rotating-card-bg-back.183088de.jpeg": "/dp-pipe/home/static/media/rotating-card-bg-back.183088de.jpeg",
     "static/media/rotating-card-bg-front.bdcdfadc.jpeg": "/dp-pipe/home/static/media/rotating-card-bg-front.bdcdfadc.jpeg",
     "static/media/team-1.0fd36e0e.jpg": "/dp-pipe/home/static/media/team-1.0fd36e0e.jpg",
@@ -42,7 +42,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ad47d4fb.js",
-    "static/js/2.319f2d05.chunk.js",
-    "static/js/main.b8fe1bee.chunk.js"
+    "static/js/2.64f743bd.chunk.js",
+    "static/js/main.5912f8c1.chunk.js"
   ]
 }
