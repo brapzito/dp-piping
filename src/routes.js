@@ -273,7 +273,7 @@ const routes = [
   {
     name: "phone",
     icon: <PhoneIcon />,
-    href: "tel:4014251778",
+    href: "tel:+14014251778",
   },
 ];
 

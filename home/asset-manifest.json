@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/dp-piping/home/static/js/main.ed5523ca.chunk.js",
-    "main.js.map": "/dp-piping/home/static/js/main.ed5523ca.chunk.js.map",
+    "main.js": "/dp-piping/home/static/js/main.85ee3997.chunk.js",
+    "main.js.map": "/dp-piping/home/static/js/main.85ee3997.chunk.js.map",
     "runtime-main.js": "/dp-piping/home/static/js/runtime-main.b156481c.js",
     "runtime-main.js.map": "/dp-piping/home/static/js/runtime-main.b156481c.js.map",
-    "static/js/2.55f2264f.chunk.js": "/dp-piping/home/static/js/2.55f2264f.chunk.js",
-    "static/js/2.55f2264f.chunk.js.map": "/dp-piping/home/static/js/2.55f2264f.chunk.js.map",
+    "static/js/2.f5b46c7b.chunk.js": "/dp-piping/home/static/js/2.f5b46c7b.chunk.js",
+    "static/js/2.f5b46c7b.chunk.js.map": "/dp-piping/home/static/js/2.f5b46c7b.chunk.js.map",
     "index.html": "/dp-piping/home/index.html",
-    "static/js/2.55f2264f.chunk.js.LICENSE.txt": "/dp-piping/home/static/js/2.55f2264f.chunk.js.LICENSE.txt",
+    "static/js/2.f5b46c7b.chunk.js.LICENSE.txt": "/dp-piping/home/static/js/2.f5b46c7b.chunk.js.LICENSE.txt",
     "static/media/pipes.0a2d50c1.webp": "/dp-piping/home/static/media/pipes.0a2d50c1.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.b156481c.js",
-    "static/js/2.55f2264f.chunk.js",
-    "static/js/main.ed5523ca.chunk.js"
+    "static/js/2.f5b46c7b.chunk.js",
+    "static/js/main.85ee3997.chunk.js"
   ]
 }
